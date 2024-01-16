@@ -1,0 +1,6 @@
+CiscoJabberSetup.msi filter=lfs diff=lfs merge=lfs -text
+FortiClientVPN.msi filter=lfs diff=lfs merge=lfs -text
+7z2301-x64.msi filter=lfs diff=lfs merge=lfs -text
+msodbcsql.msi filter=lfs diff=lfs merge=lfs -text
+msoledbsql.msi filter=lfs diff=lfs merge=lfs -text
+RemoteUpdateManager.exe filter=lfs diff=lfs merge=lfs -text
