@@ -4,3 +4,4 @@ FortiClientVPN.msi filter=lfs diff=lfs merge=lfs -text
 msodbcsql.msi filter=lfs diff=lfs merge=lfs -text
 msoledbsql.msi filter=lfs diff=lfs merge=lfs -text
 RemoteUpdateManager.exe filter=lfs diff=lfs merge=lfs -text
+Dell-Command-Update-Windows-Universal-Application_JCVW3_WIN_5.1.0_A00.EXE filter=lfs diff=lfs merge=lfs -text
